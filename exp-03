@@ -1,0 +1,17 @@
+#include<stdio.h>
+ 
+int main()
+{
+  	int i, number;
+ 
+  	printf("\n Please Enter the Value : ");
+  	scanf("%d", &number);
+  
+  	printf("\n Odd Numbers between 1 and %d are : \n", number);
+  	for(i = 1; i <= number; i= i+2)
+  	{
+		printf(" %d\t", i);
+  	}
+ 
+  	return 0;
+}
