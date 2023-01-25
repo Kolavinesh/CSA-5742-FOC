@@ -37,3 +37,6 @@ FOC
 
 ![image](https://user-images.githubusercontent.com/113986476/214484101-0aa569f7-3102-40b4-91e1-8797abecab69.png)
 
+#print n natural numbers:
+
+![image](https://user-images.githubusercontent.com/113986476/214484277-750ca3ab-ea17-4007-b5ae-d85d6931dd7f.png)
