@@ -40,3 +40,7 @@ FOC
 #print n natural numbers:
 
 ![image](https://user-images.githubusercontent.com/113986476/214484277-750ca3ab-ea17-4007-b5ae-d85d6931dd7f.png)
+
+#read a square of numbers:
+
+![image](https://user-images.githubusercontent.com/113986476/214484753-640cb275-5a9a-45de-94cd-aacdb3c0a670.png)
