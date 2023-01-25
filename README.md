@@ -31,4 +31,9 @@ FOC
 
 #leap year:
 
-![image](https://user-images.githubusercontent.com/113986476/214483013-4398fbff-2a12-4d72-9554-892018610710.png)
+![image](https://user-images.githubusercontent.com/113986476/214483013-4398fbff-2a12-4d72-9554-892018610710.png)\)
+
+#arithmetic operations:
+
+![image](https://user-images.githubusercontent.com/113986476/214484101-0aa569f7-3102-40b4-91e1-8797abecab69.png)
+
