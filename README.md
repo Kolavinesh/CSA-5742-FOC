@@ -44,3 +44,7 @@ FOC
 #read a square of numbers:
 
 ![image](https://user-images.githubusercontent.com/113986476/214484753-640cb275-5a9a-45de-94cd-aacdb3c0a670.png)
+
+#palindrome
+
+![image](https://user-images.githubusercontent.com/113986476/214507507-87d80b87-308f-45dd-852d-18e85a3f02c6.png)
