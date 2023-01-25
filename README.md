@@ -45,6 +45,10 @@ FOC
 
 ![image](https://user-images.githubusercontent.com/113986476/214484753-640cb275-5a9a-45de-94cd-aacdb3c0a670.png)
 
-#palindrome
+#palindrome:
 
 ![image](https://user-images.githubusercontent.com/113986476/214507507-87d80b87-308f-45dd-852d-18e85a3f02c6.png)
+
+#binary to decimal
+
+![image](https://user-images.githubusercontent.com/113986476/214509484-6e22dbd8-291c-4e2d-abf9-3ae864d40f3f.png)
