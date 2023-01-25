@@ -15,5 +15,12 @@ FOC
 
 ![image](https://user-images.githubusercontent.com/113986476/214481127-4f50524c-78cd-45fc-8251-5bf66feccd72.png)
 
+#swapping of numbers:
+
+
 ![image](https://user-images.githubusercontent.com/113986476/214481439-dc9872d3-8058-45b0-822d-cece3e21dfbc.png)
+
+#student marklist:
+
+
 ![image](https://user-images.githubusercontent.com/113986476/214481576-743b8cf9-6eca-4967-a9e3-142e1530630f.png)
