@@ -1,0 +1,23 @@
+echo "Student Marksheet"
+echo "Enter C Marks:"
+read C
+echo "Enter Java Marks:"
+read java
+total=`expr $C + $java`
+echo "Total Marks:"$total 
+percentage=`expr $total / 2`
+echo "Percentage:" $percentage %
+if [ $percentage -ge 80 ]
+then
+echo "grade:A"
+elif [ $percentage -ge 70 ]
+then
+echo "grade:B"
+elif [ $percentage -ge 50 ]
+then
+echo "grade:C"
+else
+echo "grade:F"
+fi
+Footer
+© 2023 GitHub, Inc.
