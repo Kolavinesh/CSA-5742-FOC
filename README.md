@@ -24,3 +24,11 @@ FOC
 
 
 ![image](https://user-images.githubusercontent.com/113986476/214481576-743b8cf9-6eca-4967-a9e3-142e1530630f.png)
+
+#largest number:
+
+![image](https://user-images.githubusercontent.com/113986476/214482919-07cce14a-bfce-412a-bc4a-80a6ee541757.png)
+
+#leap year:
+
+![image](https://user-images.githubusercontent.com/113986476/214483013-4398fbff-2a12-4d72-9554-892018610710.png)
