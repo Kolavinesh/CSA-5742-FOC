@@ -1,0 +1,4 @@
+echo "enter a number "
+read a
+square=$((a*a))
+echo "the square of "$a" = "$square
