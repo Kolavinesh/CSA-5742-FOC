@@ -60,3 +60,7 @@ FOC
 #palindrome:
 
 ![image](https://user-images.githubusercontent.com/113986476/215248670-cf831010-1dac-410c-9d5f-d5f94912dc03.png)
+
+#quadratic equation:
+
+![image](https://user-images.githubusercontent.com/113986476/215248758-d1dc772a-d0b1-4252-8980-8e1cd50cd39b.png)
