@@ -56,3 +56,7 @@ FOC
 #factorial:
 
 ![image](https://user-images.githubusercontent.com/113986476/215248541-bfe4d35b-d8aa-4262-b179-c30348dea357.png)
+
+#palindrome:
+
+![image](https://user-images.githubusercontent.com/113986476/215248670-cf831010-1dac-410c-9d5f-d5f94912dc03.png)
