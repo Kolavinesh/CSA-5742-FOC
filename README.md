@@ -55,3 +55,4 @@ FOC
 
 #factorial:
 
+![image](https://user-images.githubusercontent.com/113986476/215248541-bfe4d35b-d8aa-4262-b179-c30348dea357.png)
